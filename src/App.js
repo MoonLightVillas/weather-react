@@ -160,14 +160,14 @@ function App() {
                     </span>
                     <span class="unit">
                       <a
-                        href="https://github.com/LevTania/weather-react-week4"
+                        href="https://github.com/MoonLightVillas/weather-react"
                         id="celsius-link"
                       >
                         °C
                       </a>{" "}
                       |{" "}
                       <a
-                        href="https://github.com/LevTania/weather-react-week4"
+                        href="https://github.com/MoonLightVillas/weather-react"
                         id="fahrenheit-link"
                       >
                         °F
@@ -198,7 +198,7 @@ function App() {
                   <div class="days" id="forecast"></div>
                   <div class="coded">
                     <a
-                      href="https://github.com/LevTania/SheCodes_Plus_GitHub_Homework"
+                      href="https://github.com/MoonLightVillas/weather-react"
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -206,11 +206,11 @@ function App() {
                     </a>{" "}
                     by{" "}
                     <a
-                      href="https://www.linkedin.com/in/tetiana-levandovska-339181239/"
+                      href="https://www.linkedin.com/in/mariela-campos-9b4a791b/"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      Tetiana Levandovska
+                      Mariela Campos
                     </a>
                   </div>
                 </form>
